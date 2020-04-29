@@ -13,8 +13,7 @@ Face Detection using Viola-Jones algorithm:
 
 Haar-like features algorithm:
 
- 
-![Viola Jones](https://github.com/ApurvaSaumya/-Analysis-of-Algorithms-for-Facial-Feature-Extraction-and-Identification/blob/master/haar-output-1.png?raw=true)
+
 ![Viola Jones](https://github.com/ApurvaSaumya/-Analysis-of-Algorithms-for-Facial-Feature-Extraction-and-Identification/blob/master/haar-output-2.png?raw=true)
 ![Viola Jones](https://github.com/ApurvaSaumya/-Analysis-of-Algorithms-for-Facial-Feature-Extraction-and-Identification/blob/master/haar-output-3.png?raw=true)
 Run-time of the code: 1.8 seconds
@@ -22,8 +21,9 @@ Run-time of the code: 1.8 seconds
 
 Harris features algorithm:
 
-Features detected: 
+ 
 ![Viola Jones](https://github.com/ApurvaSaumya/-Analysis-of-Algorithms-for-Facial-Feature-Extraction-and-Identification/blob/master/harris-output.png?raw=true)
+
 
 Run-time of the code: 4.7 seconds
 
